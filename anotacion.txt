@@ -1,1 +1,2 @@
 Ejemplo para fucionar ramas.
+modificación para chequear conflicto
