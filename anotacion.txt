@@ -1,2 +1,6 @@
 Ejemplo para fucionar ramas.
+<<<<<<< HEAD
 modificación para chequear conflicto
+=======
+Ejemplo de conflicto
+>>>>>>> testActualizando
